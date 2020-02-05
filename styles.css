@@ -1,16 +1,17 @@
 * {
 margin: 0 px;
 padding: 0 px;
+    colour: black;
+font-family: NexaBold;
+    text-align: center;
+    font-weight: bold;
 }
 
 body {
 background-image: url("images/painted-ground-.jpg");
 background-repeat: no-repeat;
 background-attatch: fixed;
-colour: black;
-font-family: NexaBold;
-    text-align: center;
-    font-weight: bold;
+
 }
 
 img {
@@ -19,23 +20,16 @@ img {
 
 p {
 border: 0 px;
-text-align: center;
-font-weight: bold;
-
 }
 
 table.one {
 padding: 5 px;
 empty-cells: hide;
-    text-align: center;
-    font-weight: bold;
 }
 
 list {
 list-style-type: disc;
 list-style-postion: inside;
-    text-align: center;
-    font-weight: bold;
 }
 
 
