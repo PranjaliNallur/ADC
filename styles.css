@@ -1,0 +1,35 @@
+* {
+margin: 0 px;
+padding: 0 px;
+}
+
+body {
+background-image: url("images/painted-ground-.jpg");
+background-repeat: no-repeat;
+background-attatch: fixed;
+colour: black;
+font-family: Nexa Bold;
+}
+
+img {
+    border-radius: 50%;
+  }
+
+p {
+border: 0 px;
+text-align: center;
+font-weight: bold;
+
+}
+
+table.one {
+padding: 5 px;
+empty-cells: hide;
+}
+
+list {
+list-style-type: disc;
+list-style-postion: inside;
+}
+
+
