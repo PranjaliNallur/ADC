@@ -8,7 +8,9 @@ background-image: url("images/painted-ground-.jpg");
 background-repeat: no-repeat;
 background-attatch: fixed;
 colour: black;
-font-family: Nexa Bold;
+font-family: Nexa;
+    text-align: center;
+    font-weight: bold;
 }
 
 img {
@@ -25,11 +27,15 @@ font-weight: bold;
 table.one {
 padding: 5 px;
 empty-cells: hide;
+    text-align: center;
+    font-weight: bold;
 }
 
 list {
 list-style-type: disc;
 list-style-postion: inside;
+    text-align: center;
+    font-weight: bold;
 }
 
 
