@@ -15,7 +15,11 @@ width:100%;
 }
 
 div.t {
-	text-align: center;
+	text-align: left;
+	padding: 2 px;
+empty-cells: hide;
+margin-left: auto;
+margin-right: auto;
 }
 
 div.extras {
@@ -34,12 +38,6 @@ border: 0 px;
 
 }
 
-table.one {
-padding: 2 px;
-empty-cells: hide;
-margin-left: auto;
-margin-right: auto;
-}
 
 td {
   height: 50px;
