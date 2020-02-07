@@ -15,15 +15,12 @@ width:100%;
 }
 
 div.t {
-	text-align: center;
-	padding: 2 px;
-empty-cells: hide;
-margin-left: auto;
-margin-right: auto;
+text-align: center;
+
 }
 
 div.extras {
-	text-align: center;
+text-align: center;
 font-weight: bold;
 }
 
@@ -34,11 +31,12 @@ img {
 
 p {
 border: 0 px;
-
-
 }
 
-
+table.one {
+	padding: 2 px;
+empty-cells: hide;
+}
 td {
   height: 50px;
   vertical-align: bottom;
