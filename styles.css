@@ -37,8 +37,8 @@ border: 0 px;
 table.one {
 padding: 2 px;
 empty-cells: hide;
-width:75%;
-margin: 20px;
+margin-left: auto;
+margin-right: auto;
 }
 
 td {
